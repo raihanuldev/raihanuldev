@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniquecoderrihan&label=Profile%20views&color=0e75b6&style=flat" alt="uniquecoderrihan" /> </p>
 
-
+- **Goal 1k Contributions**
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Technical Q**
