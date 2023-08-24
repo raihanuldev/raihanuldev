@@ -37,11 +37,11 @@ With a strong foundation in front-end and back-end technologies, I thrive on tur
 
 Let's connect and collaborate on building the next generation of web applications! Feel free to explore my repositories below. 👇
 
-📫 Contact: rihanthedev@gmail.com
-💼 LinkedIn: [Your LinkedIn Profile]
-🌐 Portfolio: [Your Portfolio Website]
-🐦 Twitter: [Your Twitter Handle]
-📝 Blog: [Your Blog URL]
+📫 Contact: rihanthedev@gmail.com <br/>
+💼 LinkedIn: https://www.linkedin.com/in/rihanthedev/ <br/>
+🌐 Portfolio: https://raihanul-islam-3831c.web.app/ <br/>
+🐦 Twitter: https://www.linkedin.com/in/rihanthedev <br/>
+📝 Blog: https://dev.to/rihanthedev <br/>
 
 "Stay curious, keep coding, and always embrace the magic of creativity in technology." 🌈✨
 
