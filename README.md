@@ -18,7 +18,7 @@
 </h1>
   
   <div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>
+  <img src="https://i.ibb.co/W5DjZjr/Yellow-Motivational-Web-Developer-Facebook-Cover.png" width="600" height="300"/>
 </div>
 </div>
 
@@ -31,7 +31,7 @@ Passionate about crafting interactive and dynamic web experiences using the powe
 
 With a strong foundation in front-end and back-end technologies, I thrive on turning innovative ideas into practical and elegant solutions. My journey in the world of coding is a constant exploration of new libraries, frameworks, and design patterns. 💡
 
-🔷 JavaScript | ⚛️ React | 🧰 Node.js | 🗄️ MongoDB | 🌐 HTML/CSS
+🔷 JavaScript | ⚛️ React | 🧰 Node.js | 🗄️ MongoDB | 🌐 HTML/CSS | TypeScript | Moongoose | MySQL | POSTGRESS
 🔷 UI/UX Enthusiast | Problem Solver | Lifelong Learner
 🔷 Open Source Contributor | Tech Blogger | Cat Lover 🐱
 
@@ -50,8 +50,8 @@ Let's connect and collaborate on building the next generation of web application
 <h3 align="left">Languages and Tools:</h3>
 <!-- Your languages and tools section remains unchanged -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uniquecoderrihan&show_icons=true&locale=en&layout=compact" alt="uniquecoderrihan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihanuldev&show_icons=true&locale=en&layout=compact" alt="raihanuldev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uniquecoderrihan&show_icons=true&locale=en" alt="uniquecoderrihan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanuldev&show_icons=true&locale=en" alt="raihanuldev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquecoderrihan&" alt="uniquecoderrihan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanuldev&" alt="raihanuldev" /></p>
