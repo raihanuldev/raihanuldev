@@ -18,7 +18,7 @@
 </h1>
   
   <div align="center">
-  <img src="https://i.ibb.co/W5DjZjr/Yellow-Motivational-Web-Developer-Facebook-Cover.png" width="600" height="300"/>
+ <a href="https://app.daily.dev/raihanuldev"><img src="https://api.daily.dev/devcards/v2/335xCZALKzykq6yGLbuhA.png?type=wide&r=9ie" width="652" alt="Raihanul Islam's Dev Card"/></a>
 </div>
 </div>
 
