@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Looking an oppournity -As A Developer.<br>🌱 I’m exploring - Advance Web Development & Machine Learning.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.
+🔭 I’m Looking an oppournity -As A Developer.<br>🌱 I’m exploring - DSA & Problem Solveing.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.
 
 
 ## 🌐 Socials:
