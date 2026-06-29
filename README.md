@@ -118,17 +118,7 @@ I believe in:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://raihanuldev.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/raihanuldev)
 
----
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanuldev&theme=nord&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=raihanuldev&theme=nord&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanuldev&theme=nord&hide_border=true&layout=compact)
-
----
 
 ## 🚀 Currently Working On
 
