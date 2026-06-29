@@ -1,22 +1,159 @@
-# 💫 About Me:
-🔭 I’m Looking an oppournity -As A Developer.<br>🌱 I’m exploring - DSA & Problem Solveing.<br>👯 I’m looking - To collaborate on open source projects.<br>🤔 I’m trying - To help people learn web development.<br>⚡ Fun fact - I love to make complex origami.
+# Hi there 👋 I'm Raihanul Islam Sharif
 
+**Full Stack Software Engineer | MERN Stack Specialist | Microservices Architecture | Problem Solver**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/raihanuldev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raihanuldev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hea_amie_raihan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rihanthedev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rihanthedev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rihanbroh) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raihanuldev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raihanuldev&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanuldev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+> Open to remote opportunities • Actively seeking software engineering roles • Based in Chittagong, Bangladesh
 
 ---
-<img src="https://komarev.com/ghpvc/?username=uniqueCoderRihan&style=flat-square&color=blue" alt=""/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+I'm a results-driven Full Stack Software Engineer with hands-on expertise in building scalable applications using the MERN stack. I specialize in **microservices architecture**, **REST API design**, and **containerized deployments**. With a background in competitive programming and mentorship, I combine theoretical knowledge with practical engineering skills.
+
+- 🔧 **Core Stack**: Node.js, Express.js, React.js, MongoDB, TypeScript, Tailwind CSS
+- 🏗️ **Architecture**: Microservices, REST APIs, JWT Authentication, Docker containerization
+- 🎓 **Currently**: Studying Diploma in Computer Science (BSPI) | CGPA: 3.10/4.00
+- 🌍 **Mentoring**: 30+ junior programmers in DSA & competitive programming at BSPI Programming Club
+
+---
+
+## 💼 Key Projects
+
+### 🏢 [HR Management System](https://github.com/raihanuldev/HR-Management-System-Microservices) – Microservices Architecture
+**Production-ready platform with 5+ containerized services**
+
+- Designed and deployed **5+ independent microservices** (Auth, Employee, Leave, Payroll, Notification)
+- Implemented **JWT authentication** across services with secure inter-service REST API communication
+- **Containerized** each service with Docker; published to Docker Hub (`raihanuldev`)
+- Live deployment on **Render.com** with **MongoDB Atlas** cloud database
+- **Tech Stack**: Node.js, Express.js, MongoDB Atlas, Docker, Docker Hub, Render.com, JWT
+
+---
+
+### 🌐 [Swedishian.org](https://swedishian.org) – Community Platform (Live)
+**Multi-feature platform serving 5,000+ active users**
+
+- Developed frontend for job portal, blood bank directory, blog system, and donation management
+- Managed state across complex features using **Redux RTK Query**
+- Optimized performance for high-user-volume scenarios
+- **Tech Stack**: React.js, Redux RTK Query, Tailwind CSS, JavaScript (ES6+)
+
+---
+
+### 📚 [CourseHub](https://coursehub-live.vercel.app) – Full-Stack E-Learning Platform
+**Complete learning ecosystem with role-based access & payments**
+
+- Built full-stack e-learning platform with **role-based dashboards** (Student, Instructor, Admin)
+- Integrated **Stripe & SSL Commerce** for secure payment processing
+- Implemented course management, student enrollment, and instructor analytics
+- **Frontend Repo**: [GitHub](https://github.com/raihanuldev/CourseHub) | **Backend Repo**: [GitHub](https://github.com/raihanuldev/coursehub-server)
+- **Tech Stack**: React.js, Node.js, Express.js, MongoDB, Firebase, Stripe, SSL Commerce, Tailwind CSS
+
+---
+
+## 💻 Technical Skills
+
+### Core Competencies
+- **Languages**: JavaScript (ES6+), TypeScript, C++, C#, Python
+- **Frontend**: React.js, Next.js, Tailwind CSS, Redux, React Query, Material UI
+- **Backend**: Node.js, Express.js, REST API Design, Microservices Architecture
+- **Databases**: MongoDB, PostgreSQL, Firebase
+- **DevOps & Tools**: Docker, Docker Hub, Render.com, Git, GitHub, Postman, VS Code
+
+### Architecture & Patterns
+- Microservices design with inter-service communication
+- JWT-based authentication and authorization
+- SOLID principles and OOP design
+- RESTful API design best practices
+
+---
+
+## 🏆 Problem Solving & Competitive Programming
+
+| Platform | Handle | Rating | Rank | Stats |
+|----------|--------|--------|------|-------|
+| **Codeforces** | [mahin725](https://codeforces.com/profile/mahin725) | 1465 | Specialist | Top 25% (600k+ users) |
+| **LeetCode** | [Mahin725](https://leetcode.com/Mahin725) | 1695 | — | Top 16% (500k+ users) |
+| **CodeChef** | [glow_eagle_65](https://www.codechef.com/users/glow_eagle_65) | 1480 | 2⭐ Coder | Top 7% (600k+ users) |
+
+**Achievements**:
+- Solved **1,200+** DSA & algorithmic problems
+- Participated in **100+** online programming contests
+- Core expertise in graph algorithms, dynamic programming, and advanced data structures
+
+---
+
+## 🎓 Leadership & Mentorship
+
+### Mentor – BSPI Programming Club *(Jan 2024 – Present)*
+- Guide 30+ junior students in C/C++, data structures, and competitive programming
+- Coordinate coding contests and algorithm workshops on virtual judge platforms
+- Help bridge the gap between academic coursework and industry-ready skills
+
+### Campus Ambassador – Programming Hero *(Jan 2025 – Dec 2025)*
+- Plan and execute campus-level tech events and workshops
+- Manage logistics and coordinate student participation
+
+---
+
+## 📊 My Development Philosophy
+
+```
+Architecture First → Code Quality → Scalability → User Experience
+```
+
+I believe in:
+- **Clean Architecture**: SOLID principles, microservices when needed
+- **Code Quality**: Type safety (TypeScript), proper testing, readable code
+- **Scalability**: Containerization, cloud deployment, efficient database design
+- **Problem Solving**: Data-driven approach, algorithmic thinking
+
+---
+
+## 🔗 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihanulislam2015@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rihanthedev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanuldev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://raihanuldev.vercel.app)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/raihanuldev)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raihanuldev&theme=nord&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=raihanuldev&theme=nord&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanuldev&theme=nord&hide_border=true&layout=compact)
+
+---
+
+## 🚀 Currently Working On
+
+- Exploring **system design** and scaling patterns for high-traffic applications
+- Building **open-source contributions** to deepen my software engineering foundation
+- Creating technical content on DSA and microservices architecture
+- Preparing for **Big Tech opportunities** through algorithmic problem-solving
+
+---
+
+## 📝 Latest Articles & Content
+
+*Check out my technical blog for deep dives into microservices, DSA, and full-stack development*
+
+- Medium: [@rihanthedev](https://medium.com/@rihanthedev)
+- Dev.to: Coming Soon
+
+---
+
+<div align="center">
+
+**Let's build something amazing together!** 
+
+Open to opportunities • Quick to collaborate • Always learning
+
+![Profile Views](https://komarev.com/ghpvc/?username=raihanuldev&style=flat-square&color=blue)
+
+</div>
